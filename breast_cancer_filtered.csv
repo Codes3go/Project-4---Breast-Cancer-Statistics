@@ -1,0 +1,416 @@
+year_start,year_end,abbr,location,question,data_unit,data_type,data_value,category,classification
+2020,2020,AR,Arkansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.2,Overall,Overall
+2020,2020,ID,Idaho,Mammography use among women aged 50-74 years,%,Crude Prevalence,71.6,Overall,Overall
+2020,2020,VT,Vermont,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.8,Overall,Overall
+2016,2020,AZ,Arizona,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,23.5,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,CA,California,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,22.8,Overall,Overall
+2016,2020,IA,Iowa,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.9,Race/Ethnicity,Hispanic
+2016,2020,NM,New Mexico,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.4,Overall,Overall
+2016,2020,NH,New Hampshire,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.6,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NV,Nevada,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.1,Race/Ethnicity,Hispanic
+2016,2020,MD,Maryland,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,7.6,Race/Ethnicity,Hispanic
+2016,2020,DE,Delaware,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.1,Overall,Overall
+2016,2020,ME,Maine,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.7,Overall,Overall
+2016,2020,MS,Mississippi,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.9,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,DC,District of Columbia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,AL,Alabama,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.8,Overall,Overall
+2016,2020,MD,Maryland,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,KS,Kansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.8,Overall,Overall
+2016,2020,NJ,New Jersey,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.8,Overall,Overall
+2016,2020,IL,Illinois,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.3,Race/Ethnicity,Hispanic
+2016,2020,NV,Nevada,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.9,Overall,Overall
+2016,2020,AR,Arkansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,IA,Iowa,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,11.5,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MT,Montana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,MO,Missouri,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.0,Race/Ethnicity,Hispanic
+2016,2020,DC,District of Columbia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,13.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,DE,Delaware,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.9,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,FL,Florida,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,35.0,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NE,Nebraska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.4,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,ME,Maine,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.6,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,AZ,Arizona,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,32.5,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,LA,Louisiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,9.1,Race/Ethnicity,Hispanic
+2016,2020,MI,Michigan,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.6,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,GA,Georgia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.4,Race/Ethnicity,Hispanic
+2016,2020,KS,Kansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.2,Race/Ethnicity,Hispanic
+2016,2020,IN,Indiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,AR,Arkansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,3.8,Race/Ethnicity,Hispanic
+2016,2020,NJ,New Jersey,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,32.0,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,GA,Georgia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.7,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MT,Montana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.0,Overall,Overall
+2016,2020,MI,Michigan,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.3,Race/Ethnicity,Hispanic
+2016,2020,CT,Connecticut,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.7,Race/Ethnicity,Hispanic
+2016,2020,HI,Hawaii,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,12.4,Race/Ethnicity,Hispanic
+2016,2020,CO,Colorado,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,22.0,Overall,Overall
+2016,2020,DE,Delaware,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,34.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NV,Nevada,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,36.8,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,CO,Colorado,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.3,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,MA,Massachusetts,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.6,Race/Ethnicity,Hispanic
+2016,2020,MS,Mississippi,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.6,Overall,Overall
+2016,2020,AK,Alaska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,20.3,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,MO,Missouri,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.3,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MT,Montana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.5,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NJ,New Jersey,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,35.8,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,FL,Florida,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.7,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,AL,Alabama,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,3.4,Race/Ethnicity,Hispanic
+2016,2020,ID,Idaho,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.9,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,CA,California,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,11.2,Race/Ethnicity,Hispanic
+2016,2020,NM,New Mexico,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,42.3,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,MA,Massachusetts,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.6,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,KY,Kentucky,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.9,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NH,New Hampshire,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,IL,Illinois,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,35.3,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,IN,Indiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.3,Overall,Overall
+2016,2020,MN,Minnesota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,4.7,Race/Ethnicity,Hispanic
+2016,2020,AZ,Arizona,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,23.7,Overall,Overall
+2016,2020,MS,Mississippi,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,31.7,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,CA,California,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,35.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,MO,Missouri,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.3,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,MA,Massachusetts,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,19.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MN,Minnesota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.0,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,IN,Indiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,7.1,Race/Ethnicity,Hispanic
+2016,2020,KS,Kansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,23.6,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,LA,Louisiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.4,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,CO,Colorado,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,11.0,Race/Ethnicity,Hispanic
+2016,2020,NV,Nevada,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.0,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MS,Mississippi,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,AR,Arkansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.7,Overall,Overall
+2016,2020,CT,Connecticut,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.4,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,FL,Florida,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.7,Overall,Overall
+2016,2020,AL,Alabama,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.3,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NE,Nebraska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,4.1,Race/Ethnicity,Hispanic
+2016,2020,KS,Kansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,AL,Alabama,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.3,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,IA,Iowa,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.2,Overall,Overall
+2016,2020,ID,Idaho,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,KY,Kentucky,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.2,Overall,Overall
+2016,2020,IL,Illinois,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,31.0,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,IL,Illinois,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.7,Overall,Overall
+2016,2020,NE,Nebraska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,20.8,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,AZ,Arizona,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,10.4,Race/Ethnicity,Hispanic
+2016,2020,HI,Hawaii,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,AK,Alaska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,17.8,Overall,Overall
+2016,2020,AK,Alaska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,KY,Kentucky,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,5.1,Race/Ethnicity,Hispanic
+2016,2020,HI,Hawaii,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,22.5,Overall,Overall
+2016,2020,ID,Idaho,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,4.6,Race/Ethnicity,Hispanic
+2016,2020,MA,Massachusetts,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,22.7,Overall,Overall
+2016,2020,LA,Louisiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.1,Overall,Overall
+2016,2020,MN,Minnesota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,22.6,Overall,Overall
+2016,2020,CA,California,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,33.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,ME,Maine,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,MN,Minnesota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,13.2,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,LA,Louisiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.1,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,CO,Colorado,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,20.4,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,KY,Kentucky,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.2,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,NE,Nebraska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.1,Overall,Overall
+2016,2020,CT,Connecticut,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.1,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,DC,District of Columbia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.9,Overall,Overall
+2016,2020,MD,Maryland,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.9,Overall,Overall
+2016,2020,GA,Georgia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.1,Overall,Overall
+2016,2020,AK,Alaska,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MI,Michigan,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,GA,Georgia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.8,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,IA,Iowa,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,HI,Hawaii,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,32.4,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,IN,Indiana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.9,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,DE,Delaware,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,CT,Connecticut,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.0,Overall,Overall
+2016,2020,DC,District of Columbia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,40.0,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,MI,Michigan,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.6,Overall,Overall
+2016,2020,NH,New Hampshire,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,MD,Maryland,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,31.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,NM,New Mexico,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.4,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,NH,New Hampshire,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.0,Overall,Overall
+2016,2020,NJ,New Jersey,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,11.1,Race/Ethnicity,Hispanic
+2016,2020,MO,Missouri,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.8,Overall,Overall
+2016,2020,FL,Florida,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,15.2,Race/Ethnicity,Hispanic
+2016,2020,MT,Montana,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,ME,Maine,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,NM,New Mexico,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,17.4,Race/Ethnicity,Hispanic
+2016,2020,ID,Idaho,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.4,Overall,Overall
+2016,2020,AR,Arkansas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.2,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,NY,New York,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,OK,Oklahoma,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.9,Race/Ethnicity,Hispanic
+2016,2020,UT,Utah,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,VA,Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,31.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WI,Wisconsin,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.2,Race/Ethnicity,Hispanic
+2016,2020,ND,North Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,RI,Rhode Island,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.5,Race/Ethnicity,Hispanic
+2016,2020,UT,Utah,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,20.5,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,SD,South Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,WV,West Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,WA,Washington,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.8,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,WA,Washington,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,14.7,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WI,Wisconsin,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,20.4,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,NY,New York,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.2,Overall,Overall
+2016,2020,OH,Ohio,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.5,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,PA,Pennsylvania,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,32.8,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,VA,Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.1,Overall,Overall
+2016,2020,UT,Utah,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,18.1,Overall,Overall
+2016,2020,PA,Pennsylvania,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.6,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,VT,Vermont,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.1,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NC,North Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,SC,South Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.8,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,ND,North Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,21.8,Overall,Overall
+2016,2020,NC,North Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.6,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,US,United States,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.4,Overall,Overall
+2016,2020,WY,Wyoming,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,23.4,Overall,Overall
+2016,2020,VT,Vermont,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WV,West Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,31.4,Overall,Overall
+2016,2020,WI,Wisconsin,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.7,Overall,Overall
+2016,2020,TN,Tennessee,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,TX,Texas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.3,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,TX,Texas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.4,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,OK,Oklahoma,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,33.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,WY,Wyoming,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,OK,Oklahoma,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.0,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,TN,Tennessee,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.2,Overall,Overall
+2016,2020,TX,Texas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,21.1,Overall,Overall
+2016,2020,NC,North Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.9,Overall,Overall
+2016,2020,OH,Ohio,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.6,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,OR,Oregon,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.6,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,SD,South Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,US,United States,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.4,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,UT,Utah,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,8.1,Race/Ethnicity,Hispanic
+2016,2020,WI,Wisconsin,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,27.5,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,NC,North Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,5.5,Race/Ethnicity,Hispanic
+2016,2020,RI,Rhode Island,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.7,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,SC,South Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,4.7,Race/Ethnicity,Hispanic
+2016,2020,OH,Ohio,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,5.8,Race/Ethnicity,Hispanic
+2016,2020,SC,South Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.5,Overall,Overall
+2016,2020,RI,Rhode Island,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.6,Overall,Overall
+2016,2020,NY,New York,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,OR,Oregon,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,26.0,Overall,Overall
+2016,2020,SD,South Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.0,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,PA,Pennsylvania,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,7.9,Race/Ethnicity,Hispanic
+2016,2020,TN,Tennessee,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.1,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,TN,Tennessee,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,5.7,Race/Ethnicity,Hispanic
+2016,2020,OR,Oregon,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.3,Race/Ethnicity,Hispanic
+2016,2020,VA,Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.3,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,RI,Rhode Island,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,18.8,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,US,United States,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,10.6,Race/Ethnicity,Hispanic
+2016,2020,VT,Vermont,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,Hispanic
+2016,2020,NY,New York,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,12.3,Race/Ethnicity,Hispanic
+2016,2020,WV,West Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,31.9,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,SC,South Carolina,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,30.2,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,PA,Pennsylvania,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,29.8,Overall,Overall
+2016,2020,SD,South Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.2,Overall,Overall
+2016,2020,WY,Wyoming,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,25.4,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,VA,Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.1,Race/Ethnicity,Hispanic
+2016,2020,OK,Oklahoma,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.2,Overall,Overall
+2016,2020,US,United States,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.7,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WA,Washington,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,6.6,Race/Ethnicity,Hispanic
+2016,2020,ND,North Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WA,Washington,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.0,Overall,Overall
+2016,2020,OH,Ohio,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,28.8,Overall,Overall
+2016,2020,VT,Vermont,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.9,Overall,Overall
+2016,2020,TX,Texas,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,11.5,Race/Ethnicity,Hispanic
+2016,2020,ND,North Dakota,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,24.0,Race/Ethnicity,"White, non-Hispanic"
+2016,2020,OR,Oregon,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,18.5,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WY,Wyoming,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,,Race/Ethnicity,"Black, non-Hispanic"
+2016,2020,WV,West Virginia,"Breast cancer mortality among all females, underlying cause","per 100,000",Crude Rate,34.0,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,AL,Alabama,Mammography use among women aged 50-74 years,%,Crude Prevalence,87.1,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,AL,Alabama,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.5,Overall,Overall
+2020,2020,AL,Alabama,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,AL,Alabama,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,CO,Colorado,Mammography use among women aged 50-74 years,%,Crude Prevalence,72.7,Race/Ethnicity,Hispanic
+2020,2020,DC,District of Columbia,Mammography use among women aged 50-74 years,%,Crude Prevalence,83.5,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,AK,Alaska,Mammography use among women aged 50-74 years,%,Crude Prevalence,69.7,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,AR,Arkansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.5,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,GA,Georgia,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.4,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,AZ,Arizona,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.0,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,AR,Arkansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.6,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,AZ,Arizona,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.6,Overall,Overall
+2020,2020,CO,Colorado,Mammography use among women aged 50-74 years,%,Crude Prevalence,72.4,Overall,Overall
+2020,2020,AZ,Arizona,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.4,Race/Ethnicity,Hispanic
+2020,2020,CO,Colorado,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.1,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,AZ,Arizona,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,CA,California,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,AR,Arkansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,FL,Florida,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.2,Overall,Overall
+2020,2020,DE,Delaware,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.6,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,FL,Florida,Mammography use among women aged 50-74 years,%,Crude Prevalence,86.8,Race/Ethnicity,Hispanic
+2020,2020,GA,Georgia,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.1,Overall,Overall
+2020,2020,CA,California,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.3,Race/Ethnicity,Hispanic
+2020,2020,CT,Connecticut,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.6,Overall,Overall
+2020,2020,GA,Georgia,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,AK,Alaska,Mammography use among women aged 50-74 years,%,Crude Prevalence,69.8,Overall,Overall
+2020,2020,AK,Alaska,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,DC,District of Columbia,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.6,Overall,Overall
+2020,2020,GA,Georgia,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.9,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,CA,California,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,DE,Delaware,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.7,Overall,Overall
+2020,2020,CO,Colorado,Mammography use among women aged 50-74 years,%,Crude Prevalence,72.7,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,FL,Florida,Mammography use among women aged 50-74 years,%,Crude Prevalence,90.6,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,AK,Alaska,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,CT,Connecticut,Mammography use among women aged 50-74 years,%,Crude Prevalence,85.3,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,DE,Delaware,Mammography use among women aged 50-74 years,%,Crude Prevalence,83.8,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,DC,District of Columbia,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,CA,California,Mammography use among women aged 50-74 years,%,Crude Prevalence,75.9,Overall,Overall
+2020,2020,CT,Connecticut,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.6,Race/Ethnicity,Hispanic
+2020,2020,CT,Connecticut,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.9,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,DC,District of Columbia,Mammography use among women aged 50-74 years,%,Crude Prevalence,80.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,FL,Florida,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,DE,Delaware,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,IL,Illinois,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,LA,Louisiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,86.8,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,IL,Illinois,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.3,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,KS,Kansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.3,Overall,Overall
+2020,2020,ID,Idaho,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MA,Massachusetts,Mammography use among women aged 50-74 years,%,Crude Prevalence,87.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,MD,Maryland,Mammography use among women aged 50-74 years,%,Crude Prevalence,80.9,Race/Ethnicity,Hispanic
+2020,2020,KS,Kansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,HI,Hawaii,Mammography use among women aged 50-74 years,%,Crude Prevalence,83.7,Overall,Overall
+2020,2020,MD,Maryland,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.3,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,HI,Hawaii,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,LA,Louisiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,MD,Maryland,Mammography use among women aged 50-74 years,%,Crude Prevalence,85.8,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,ID,Idaho,Mammography use among women aged 50-74 years,%,Crude Prevalence,72.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,ME,Maine,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,IA,Iowa,Mammography use among women aged 50-74 years,%,Crude Prevalence,72.6,Race/Ethnicity,Hispanic
+2020,2020,ME,Maine,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.5,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,IN,Indiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.3,Overall,Overall
+2020,2020,IA,Iowa,Mammography use among women aged 50-74 years,%,Crude Prevalence,80.9,Overall,Overall
+2020,2020,IA,Iowa,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.0,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,ID,Idaho,Mammography use among women aged 50-74 years,%,Crude Prevalence,66.5,Race/Ethnicity,Hispanic
+2020,2020,IN,Indiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.0,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,KY,Kentucky,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.5,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,LA,Louisiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,80.3,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,KS,Kansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,68.9,Race/Ethnicity,Hispanic
+2020,2020,ME,Maine,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,IN,Indiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,HI,Hawaii,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.0,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,IN,Indiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.5,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,KY,Kentucky,Mammography use among women aged 50-74 years,%,Crude Prevalence,83.1,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,HI,Hawaii,Mammography use among women aged 50-74 years,%,Crude Prevalence,88.1,Race/Ethnicity,Hispanic
+2020,2020,MA,Massachusetts,Mammography use among women aged 50-74 years,%,Crude Prevalence,86.5,Overall,Overall
+2020,2020,ME,Maine,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.6,Overall,Overall
+2020,2020,MA,Massachusetts,Mammography use among women aged 50-74 years,%,Crude Prevalence,87.9,Race/Ethnicity,Hispanic
+2020,2020,KY,Kentucky,Mammography use among women aged 50-74 years,%,Crude Prevalence,75.9,Overall,Overall
+2020,2020,IL,Illinois,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.7,Overall,Overall
+2020,2020,MA,Massachusetts,Mammography use among women aged 50-74 years,%,Crude Prevalence,89.4,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,IL,Illinois,Mammography use among women aged 50-74 years,%,Crude Prevalence,90.6,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,KY,Kentucky,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,LA,Louisiana,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.3,Overall,Overall
+2020,2020,KS,Kansas,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.6,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MD,Maryland,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.1,Overall,Overall
+2020,2020,IA,Iowa,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,NJ,New Jersey,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.3,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NE,Nebraska,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.4,Overall,Overall
+2020,2020,MN,Minnesota,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.5,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MS,Mississippi,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.8,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MT,Montana,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,NH,New Hampshire,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.5,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NV,Nevada,Mammography use among women aged 50-74 years,%,Crude Prevalence,72.3,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NV,Nevada,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.5,Overall,Overall
+2020,2020,MO,Missouri,Mammography use among women aged 50-74 years,%,Crude Prevalence,86.6,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,NE,Nebraska,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.7,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NV,Nevada,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.8,Race/Ethnicity,Hispanic
+2020,2020,NH,New Hampshire,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MN,Minnesota,Mammography use among women aged 50-74 years,%,Crude Prevalence,69.6,Race/Ethnicity,Hispanic
+2020,2020,MS,Mississippi,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,NJ,New Jersey,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.6,Race/Ethnicity,Hispanic
+2020,2020,NM,New Mexico,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.2,Race/Ethnicity,Hispanic
+2020,2020,NH,New Hampshire,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,NJ,New Jersey,Mammography use among women aged 50-74 years,%,Crude Prevalence,83.0,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MO,Missouri,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.7,Overall,Overall
+2020,2020,NJ,New Jersey,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.3,Overall,Overall
+2020,2020,MT,Montana,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,NM,New Mexico,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NY,New York,Mammography use among women aged 50-74 years,%,Crude Prevalence,85.9,Race/Ethnicity,Hispanic
+2020,2020,NY,New York,Mammography use among women aged 50-74 years,%,Crude Prevalence,83.0,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MT,Montana,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NM,New Mexico,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.7,Overall,Overall
+2020,2020,NY,New York,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.0,Overall,Overall
+2020,2020,MI,Michigan,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,MS,Mississippi,Mammography use among women aged 50-74 years,%,Crude Prevalence,69.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,MI,Michigan,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.2,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,MS,Mississippi,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.5,Overall,Overall
+2020,2020,MT,Montana,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.0,Overall,Overall
+2020,2020,NV,Nevada,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MI,Michigan,Mammography use among women aged 50-74 years,%,Crude Prevalence,86.4,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,MO,Missouri,Mammography use among women aged 50-74 years,%,Crude Prevalence,75.9,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NE,Nebraska,Mammography use among women aged 50-74 years,%,Crude Prevalence,70.1,Race/Ethnicity,Hispanic
+2020,2020,NY,New York,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.8,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,MN,Minnesota,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.1,Overall,Overall
+2020,2020,MO,Missouri,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,MN,Minnesota,Mammography use among women aged 50-74 years,%,Crude Prevalence,80.5,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,NH,New Hampshire,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.0,Overall,Overall
+2020,2020,MI,Michigan,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.1,Overall,Overall
+2020,2020,NM,New Mexico,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,NE,Nebraska,Mammography use among women aged 50-74 years,%,Crude Prevalence,75.7,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,RI,Rhode Island,Mammography use among women aged 50-74 years,%,Crude Prevalence,85.7,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,OH,Ohio,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.4,Overall,Overall
+2020,2020,TN,Tennessee,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.1,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,RI,Rhode Island,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,RI,Rhode Island,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.0,Race/Ethnicity,Hispanic
+2020,2020,OH,Ohio,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,OH,Ohio,Mammography use among women aged 50-74 years,%,Crude Prevalence,85.3,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,OK,Oklahoma,Mammography use among women aged 50-74 years,%,Crude Prevalence,70.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,SC,South Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.1,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,ND,North Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.8,Overall,Overall
+2020,2020,OK,Oklahoma,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.4,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,RI,Rhode Island,Mammography use among women aged 50-74 years,%,Crude Prevalence,84.7,Overall,Overall
+2020,2020,SC,South Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,OR,Oregon,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.7,Overall,Overall
+2020,2020,TN,Tennessee,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,SC,South Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,OR,Oregon,Mammography use among women aged 50-74 years,%,Crude Prevalence,82.5,Race/Ethnicity,Hispanic
+2020,2020,NC,North Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.9,Overall,Overall
+2020,2020,PA,Pennsylvania,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.9,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,TN,Tennessee,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.4,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,TN,Tennessee,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.3,Overall,Overall
+2020,2020,ND,North Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.6,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,ND,North Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,NC,North Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,88.8,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,SC,South Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.4,Overall,Overall
+2020,2020,OK,Oklahoma,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,PA,Pennsylvania,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,SD,South Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.0,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,SD,South Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,PA,Pennsylvania,Mammography use among women aged 50-74 years,%,Crude Prevalence,80.3,Overall,Overall
+2020,2020,SD,South Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,SD,South Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.6,Overall,Overall
+2020,2020,NC,North Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.2,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,OR,Oregon,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,ND,North Dakota,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,OK,Oklahoma,Mammography use among women aged 50-74 years,%,Crude Prevalence,71.9,Overall,Overall
+2020,2020,NC,North Carolina,Mammography use among women aged 50-74 years,%,Crude Prevalence,60.1,Race/Ethnicity,Hispanic
+2020,2020,OH,Ohio,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.5,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,OR,Oregon,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,PA,Pennsylvania,Mammography use among women aged 50-74 years,%,Crude Prevalence,92.2,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,VT,Vermont,Mammography use among women aged 50-74 years,%,Crude Prevalence,75.0,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,WA,Washington,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,UT,Utah,Mammography use among women aged 50-74 years,%,Crude Prevalence,70.8,Race/Ethnicity,Hispanic
+2020,2020,WI,Wisconsin,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,VA,Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,87.0,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,WY,Wyoming,Mammography use among women aged 50-74 years,%,Crude Prevalence,67.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,TX,Texas,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,VA,Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,79.4,Overall,Overall
+2020,2020,WY,Wyoming,Mammography use among women aged 50-74 years,%,Crude Prevalence,65.5,Overall,Overall
+2020,2020,US,United States,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,WI,Wisconsin,Mammography use among women aged 50-74 years,%,Crude Prevalence,86.3,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,WV,West Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.7,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,VA,Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,73.8,Race/Ethnicity,Hispanic
+2020,2020,TX,Texas,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.6,Overall,Overall
+2020,2020,UT,Utah,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,TX,Texas,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.5,Race/Ethnicity,Hispanic
+2020,2020,WI,Wisconsin,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.1,Overall,Overall
+2020,2020,VA,Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.6,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,UT,Utah,Mammography use among women aged 50-74 years,%,Crude Prevalence,71.1,Overall,Overall
+2020,2020,TX,Texas,Mammography use among women aged 50-74 years,%,Crude Prevalence,89.5,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,US,United States,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.6,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,WV,West Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,77.8,Overall,Overall
+2020,2020,US,United States,Mammography use among women aged 50-74 years,%,Crude Prevalence,84.9,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,WI,Wisconsin,Mammography use among women aged 50-74 years,%,Crude Prevalence,81.9,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,WA,Washington,Mammography use among women aged 50-74 years,%,Crude Prevalence,74.8,Overall,Overall
+2020,2020,WV,West Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,VT,Vermont,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,UT,Utah,Mammography use among women aged 50-74 years,%,Crude Prevalence,70.9,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,WY,Wyoming,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,WA,Washington,Mammography use among women aged 50-74 years,%,Crude Prevalence,76.1,Race/Ethnicity,"White, non-Hispanic"
+2020,2020,WY,Wyoming,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,Hispanic
+2020,2020,WV,West Virginia,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,VT,Vermont,Mammography use among women aged 50-74 years,%,Crude Prevalence,,Race/Ethnicity,"Black, non-Hispanic"
+2020,2020,WA,Washington,Mammography use among women aged 50-74 years,%,Crude Prevalence,78.7,Race/Ethnicity,Hispanic
