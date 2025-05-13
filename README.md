@@ -12,7 +12,8 @@ A one page summary of the project
 A PowerPoint presentation highlighting the purpose of the project, research methodology, results of research questions and plans for future work that builds on this project.
 
 
-References:
-The data used to answer these questions was obtained from 
+References
+
+The data used to answer these questions was obtained from: 
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators 
