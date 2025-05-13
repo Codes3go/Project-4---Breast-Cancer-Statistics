@@ -13,6 +13,6 @@ A PowerPoint presentation highlighting the purpose of the project, research meth
 
 
 References:
-The data used to answer these questions was obtained from: 
+The data used to answer these questions was obtained from 
 
 https://catalog.data.gov/dataset/u-s-chronic-disease-indicators 
