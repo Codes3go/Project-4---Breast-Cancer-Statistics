@@ -10,6 +10,7 @@ Project 4 – Breast Cancer Statistics - plots and analysis – which contains f
 A one page summary of the project
 
 A PowerPoint presentation highlighting the purpose of the project, research methodology, results of research questions and plans for future work that builds on this project.
+
  
 The data used to answer these questions was obtained from: 
 
